@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0;padding:0;}
+body{font:12px "微软雅黑";}
+a{text-decoration:none}
+li{list-style:none}
+/* ----------------------------------------------------------- */
+#header{width:1002px;height:62px;background-color:#232323}
+div h1{width:245px;height:49px;padding-top:13px;padding-left:11px;float:left}
+div h1 a{display:block;background:url(../img/3.jpg);background-repeat:no-repeat;text-indent:-999px;width:158px;height:37px;}
+div ul .li01{float:left;list-style:none;line-height:62px;padding:0 15px;font-size:14px;}
+div ul li a{color:#fff}
+div ul{float:left;width:746px}
+
+/* ----------------------------------------------------------- */
+
+div .banner{width:1002px;height:420px;background-color:#fff}
+
+/* ----------------------------------------------------------- */
+
+.main{width:1002px;height:350px;background-color:#f5f5f5;}
+.main ul{width:1002px,weight:350px;padding-top:35px;}
+.main ul .sjk{background:url(../img/shouji.jpg) no-repeat center 20px;height:288px;float:left; }
+.li-content{margin-top:122px;text-align:center}
+h2{font-size:21px;color:#232a3d;margin-bottom:19px}
+.wz01{font-size:14px;color:#5f5f67;margin-bottom:6px}
+.wz02{font-size:12px;color:#b9c4ca;margin-bottom:6px}
+
+.main{width:1002px;height:350px;background-color:#f5f5f5;}
+.main ul{width:1002px,weight:350px;padding-top:35px;}
+.main ul .sjk1{background:url(../img/dengpao.jpg) no-repeat center 20px;height:288px;float:left; }
+.li-content1{margin-top:122px;text-align:center}
+h2{font-size:21px;color:#232a3d;margin-bottom:19px}
+.wz01{font-size:14px;color:#5f5f67;margin-bottom:6px}
+.wz02{font-size:12px;color:#b9c4ca;margin-bottom:6px}
+
+.main{width:1002px;height:350px;background-color:#f5f5f5;}
+.main ul{width:1002px,weight:350px;padding-top:35px;}
+.main ul .sjk2{background:url(../img/feiji.jpg) no-repeat center 20px;height:288px;float:left; }
+.li-content2{margin-top:122px;text-align:center}
+h2{font-size:21px;color:#232a3d;margin-bottom:19px}
+.wz01{font-size:14px;color:#5f5f67;margin-bottom:6px}
+.wz02{font-size:12px;color:#b9c4ca;margin-bottom:6px}
+
+.main{width:1002px;height:350px;background-color:#f5f5f5;}
+.main ul{width:1002px,weight:350px;padding-top:35px;}
+.main ul .sjk3{background:url(../img/taiyang.jpg) no-repeat center 20px;height:288px;float:left; }
+.li-content3{margin-top:122px;text-align:center}
+h2{font-size:21px;color:#232a3d;margin-bottom:19px}
+.wz01{font-size:14px;color:#5f5f67;margin-bottom:6px}
+.wz02{font-size:12px;color:#b9c4ca;margin-bottom:6px}
+
+/* ----------------------------------------------------------- */
+
+.bodys{width:1002px;height:310px;background:url(../img/baidu.jpg) no-repeat left 40px;float:left;}
+.dtxw{width:355px;height:115px;float:left;padding-top:40px;padding-left:315px;}
+h3 a{color:#20263c;font-size:18px;}
+.xc{color:#191a1f;font-size:15px;}
+.jx1 a{color:#9a9a9a;display:block;}
+.bodys2{width:355px;height:77px;border-bottom:1px dashed #cbcbcb}
+
+.biao{float:left;}
+.biao2{width:355px;height:106px;padding-top:18px;padding-left:315px}
+.liebiao{color:#333;font-size:13px;line-height:23px}
+
+.ywlx{width:315px;height:228px;float:left;margin-top:-112px;margin-bottom:39px}
+.bb1{font-size:18px;color:#000;font-weight:bold;margin-bottom:19px}
+.bb3{font-size:18px;color:#626167;margin-bottom:18px}
+.bb4{font-size:12px;color:#626367;margin-bottom:6px}
+
+/* ----------------------------------------------------------- */
+
+.foot{float:left;width:1001px;height:214px;background:#222222;float:left}
+.foot-left{width:501px;height:214px;float:left;margin-top:54px;margin-left:10px}
+.hhh{color:#ffffff;font-size:12px;margin-bottom:24px}
+.eee{color:#9d9d9d;font-size:12px;margin-bottom:12px}
+
+.foot-reight{width:501px;height:214px;float:left}
+.ttt{width:170px;float:left;margin-top:29px;margin-left:130px}
+.wenzi1{margin-left:90px}
+.ttt1{margin-top:20px}
+
+
+
+
+

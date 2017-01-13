@@ -1,0 +1,83 @@
+
+/* CSS Document */
+
+*{margin:0;padding:0;margin:0 auto;font:12px "微软雅黑";}
+
+li{list-style:none}
+a{text-decoration:none;} 
+#header{width:1100px;height:65px;background:#f2f2f2}
+.header-left{width:600px;height:65px;background:url(../img/logo.png) no-repeat 60px 18px;float:left}
+#header ul{float:left}
+#header ul li{float:left;height:65px;line-height:65px;padding-right:40px;}
+#header ul li:last-child{padding-right:0}
+h1{width:167px;height:41px;float:left;text-indent:-999px}
+
+
+#banner{width:1100px;height:423px;background:#f2f2f2}
+
+
+
+#ser{width:1100px;height:51px;background:#f2f2f2}
+.ser1{float:left;margin-left:50px}
+.ser2{float:right;margin-right:448px}
+#ser img{float:left}
+
+
+#main{width:1100px;height:284px;background:#f2f2f2}
+.main-zuo{width:560px;height:284px;background:#f2f2f2;float:left;}
+
+.ul1{width:560px;height:125px;background:#f2f2f2;}
+.ul2{width:560px;height:156px;background:#f2f2f2;}
+.ul1 li{float:left;margin:10px 0 0 50px}
+.ul2 li{float:left;margin:10px 0 0 50px}
+.lili{width:90px;font-size:16px}
+.lili2{width:350px;}
+
+.main-you{width:540px;height:284px;background:#f2f2f2;float:right;}
+.main-you img{margin-top:20px}
+
+
+
+#main-top{width:1100px;height:334px;background:#f2f2f2;color:#7d7d7d}
+
+.zuo{width:352px;height:334px;float:left;}
+.zuo ul{margin:22px 0 0 52px }
+.gywm{height:30px;color:#222222;font-size:16px}
+.anniu a{display:block;height:40px;margin-left:220px;}
+.li123{height:25px;}
+.li1234{height:55px;}
+.li345{height:25px;}
+
+
+.zhong{width:297px;height:334px;float:left}
+.xwzx{margin-top:23px;color:#222222;font-size:16px}
+.zhong .li123{height:110px;}
+.zhong .li345{height:25px;}
+
+
+.you{width:449px;height:334px;float:left}
+.you .li123 a{float:left}
+.you .li123 span{float:right;margin-right:40px}
+.you .anniu a{display:block;height:40px;margin-left:360px;}
+.li123{height:25px;}
+.li1234{height:55px;}
+.li345{height:25px;}
+
+
+
+#main-bottom{width:1100px;height:49px;}
+
+#foot{width:1100px;height:229px;background:#383838}
+.footzuo{width:850px;height:180px;float:left}
+.footyou{width:250px;height:180px;float:left}
+.sydh .sydhli{float:left;width:70px;border-right:1px solid #dadada;text-indent:20px;font-size:12px}
+.dzl{line-height:25px;font-size:12px;color:#757575;text-indent:65px}
+.sydh{padding-top:50px;padding-left:50px;padding-bottom:20px;color:#a9a9a9}
+.bqsy{text-align:center;color:#a9a9a9}
+.dhhm{font-size:20px;color:#a9a9a9}
+.dhhm1{margin-top:40px;color:#a9a9a9}
+
+
+
+
+
